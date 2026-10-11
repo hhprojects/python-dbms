@@ -1,0 +1,1 @@
+from records import GameRecord, RECORD_SIZE, encode_record, decode_record
